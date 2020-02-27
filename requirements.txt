@@ -1,0 +1,11 @@
+nltk
+spacy
+numpy
+torch
+matplotlib
+pandas
+tensorboardX
+sklearn
+torchtext
+plotly
+seaborn
